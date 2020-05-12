@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/about_bitcoin"
+            android:title="About Bitcoin" />
+        <item
+            android:id="@+id/business_headlines"
+            android:title="Business Headlines" />
+        <item
+            android:id="@+id/techCrunch"
+            android:title="TechCrunch" />
+        <item
+            android:id="@+id/wall_atreet_journal"
+            android:title="Wall Street Journal" />
+        <item
+            android:id="@+id/mentioning_apple"
+            android:title="Mentioning Apple" />
+
+    </group>
+</menu>
